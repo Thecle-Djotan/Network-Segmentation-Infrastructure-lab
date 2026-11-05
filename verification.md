@@ -6,7 +6,7 @@
  
 ### VLAN access ports on SW2 
  
-![SW2 output showing the Support and Operations VLANs and their access ports](images/02-vlan-access-ports.png) 
+![SW2 output showing the Support and Operations VLANs and their access ports](image/02-vlan-access-ports.png) 
  
 `show vlan brief` shows SW2 ports `Fa0/1`, `Fa0/2`, and `Fa0/10` in 
 VLAN 10 (Support), and `Fa0/5` in VLAN 20 (Operations). 
