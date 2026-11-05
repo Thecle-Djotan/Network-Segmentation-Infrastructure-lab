@@ -1,6 +1,3 @@
-
-
-6:03
 # Configuration and Verification Evidence 
  
 [Back to the project overview](README.md) 
@@ -16,7 +13,7 @@ VLAN 10 (Support), and `Fa0/5` in VLAN 20 (Operations).
  
 ### Trunk on SW1 
  
-![SW1 output showing GigabitEthernet0/2 trunking and forwarding VLANs 10 and 20](images/03-trunk-links.png) 
+![SW1 output showing GigabitEthernet0/2 trunking and forwarding VLANs 10 and 20](03-trunk-links.png) 
  
 `show interfaces trunk` shows that SW1's `Gi0/2` uses 802.1Q and that 
 VLANs 10 and 20 are allowed, active, and forwarding on that port. 
