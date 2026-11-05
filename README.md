@@ -9,7 +9,7 @@ DNS, and an internal website.
  
 ## Network topology 
  
-![Packet Tracer topology showing R1, two switches, the shared server, and the Support and Operations clients](images/01-Topology.png) 
+![Packet Tracer topology showing R1, two switches, the shared server, and the Support and Operations clients](image/01-Topology.png) 
  
 | Department | VLAN | Subnet | Default gateway | DHCP pool | 
 |---|---:|---|---|---| 
