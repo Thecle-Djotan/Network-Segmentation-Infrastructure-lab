@@ -62,12 +62,7 @@ between SW1 and SW2 carries both VLANs.
   Opening the portal by hostname checks that a client can also reach 
   and use the HTTP service. 
  
-## Open the simulation 
- 
-Download the [Packet Tracer lab file](segmented-network-lab.pkt) and open 
-it in Cisco Packet Tracer. Use a simulated client browser to open 
-http://thecle.net.
-thecle.net
+
 Home
 verification.md
 verification.md
